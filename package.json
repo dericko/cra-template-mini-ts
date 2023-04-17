@@ -1,0 +1,20 @@
+{
+  "name": "cra-template-mini-ts",
+  "version": "0.1.0",
+  "description": "Simple TS template for create react app.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dericko/cra-template-mini-ts.git"
+  },
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "author": "dericko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dericko/cra-template-mini-ts/issues"
+  },
+  "homepage": "https://github.com/dericko/cra-template-mini-ts#readme"
+}
